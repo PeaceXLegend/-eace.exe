@@ -1,0 +1,3 @@
+ip:Peace_9999.aternos.me
+port: 18849
+Bot:Peace.exe
